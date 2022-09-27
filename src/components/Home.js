@@ -40,7 +40,7 @@ function HomePage() {
         />
 
         <Carousel.Caption>
-          <h3>My Child</h3>
+          <h3>Taz</h3>
           <p>
             Proud dog dad of my rescue pup
           </p>
